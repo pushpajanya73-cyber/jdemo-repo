@@ -1,3 +1,2 @@
 janya demo
-author janya
-janya <dr>
+author janya <dr>
