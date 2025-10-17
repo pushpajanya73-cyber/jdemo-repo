@@ -1,2 +1,1 @@
-# jdemo-repo
-new project of janya
+janya demo
